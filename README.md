@@ -1,2 +1,11 @@
 # Insta-account-creator-
-PYTHON AUTOMATION USING INSTA API | INSTAGRAM ACCOUNT CREATOR | MULTI THREADING | DM FOR MORE 
+
+(UPDATED)
+- Proxy support 
+- create longlasting accounts
+- Mobile/ios/web API
+
+# TELEGRAM 
+ https://t.me/johnreal01
+
+
