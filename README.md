@@ -1,7 +1,8 @@
 # Insta-account-creator-
 
 (UPDATED)
-- Proxy support / full request 
+- Proxy support / full request
+- no third party Apis 
 - create longlasting accounts
 - Mobile/ios/web API
 
